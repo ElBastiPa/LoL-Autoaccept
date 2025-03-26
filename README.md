@@ -7,7 +7,7 @@ This code uses python libreries like opencv and pyautogui, so you need to instal
 1) Open a terminal
 2) Write de next commands: pip3 install pyautogui, pip install opencv-python & pip install pillow.
 
-PD: In case that the code didn't work, probably the error will be the image that de code use to comprovate your screen, the solution is search match and when the accept screen apears take a screenshot to the butom of accept and save it in the aplication folder.
+PD: In case that the code didn't work, probably the error will be the image that the code uses to comprovate your screen, the solution is search match and when the accept screen apears take a screenshot to the butom of accept and save it in the aplication folder.
 
 ----------------------------------------------------------------------------
 
